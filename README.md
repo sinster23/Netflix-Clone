@@ -2,4 +2,4 @@
 
 **HTML code:** [Microsoft.html](https://github.com/sinster23/Netflix-Clone/blob/main/Upaflix.html)
 
-**CSS code:** [style.css]()
+**CSS code:** [style.css](https://github.com/sinster23/Netflix-Clone/blob/main/style.css)
